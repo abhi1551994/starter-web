@@ -1,0 +1,13 @@
+Git should push up all your changes that you have on your local system
+
+up to the remote repository. So, at the bottom, we can see that it confirms
+
+that it pushed the changes to my copy of the "starter-web" Git repository on GitHub.
+
+It also tells me which commits were involved;
+
+so, basically, it pushed the commit "5c05047" up to "ba5b0f0",
+
+which is also master to master, so my local master to my remote master.
+
+Well, let's go see if that actually happened. So let's go back to our browser,
